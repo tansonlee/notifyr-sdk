@@ -1,1 +1,1 @@
-export declare const api_endpoint = "http://localhost:3000";
+export declare const api_endpoint = "https://notifyr.vercel.app";

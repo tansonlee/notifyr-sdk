@@ -103,7 +103,7 @@ var NotificationDropdownPosition;
     NotificationDropdownPosition["RIGHT"] = "RIGHT";
 })(NotificationDropdownPosition || (NotificationDropdownPosition = {}));
 
-var api_endpoint = 'http://localhost:3000';
+var api_endpoint = 'https://notifyr.vercel.app';
 
 var storeUserToken = function (token) {
     localStorage.setItem('userToken', token);
