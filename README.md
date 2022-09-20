@@ -1,19 +1,8 @@
-# Notifyr SDK
+# Notifyr
 
-### Types
+Hey, welcome to Notifyr!
 
--   info
--   success
--   warning
--   error
+Here are some quick links:
 
-### Position
-
--   center
--   left
--   right
-
-### Colormode
-
--   isDarkMode
-# notifyr-sdk
+-   [Live site](https://notifyr.vercel.app/)
+-   [Documentation](https://notifyr.readme.io/reference/getting-started-1)
